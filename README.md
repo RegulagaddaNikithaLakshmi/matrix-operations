@@ -1,10 +1,10 @@
-          # 🧮 Matrix Operations Tool
+# 🧮 Matrix Operations Tool
 
-#🌍 **Project Overview:**  
+🌍 **Project Overview:**  
 
 A Python CLI tool for performing core matrix operations interactively using NumPy.
 
-#✨ Features:
+✨ Features:
 
 . ➕ Matrix addition  
 . ➖ Matrix subtraction  
@@ -15,14 +15,14 @@ A Python CLI tool for performing core matrix operations interactively using NumP
 . 📝 Handles errors for invalid matrix dimensions  
 
 
-#🛠️ Technologies Used:
+🛠️ Technologies Used :
 
 . Python 3.x – Programming language  
 . NumPy – Library for matrix operations  
 . Command-line interface (CLI) – Interactive prompts  
 
 
-#🚀 Installation:
+🚀 Installation :
 
 1. Clone the repository:
 
@@ -36,16 +36,16 @@ cd matrix-operations
 
 
 python -m venv .venv
-# Windows
+ Windows
 .venv\Scripts\activate
-# macOS/Linux
+ macOS/Linux
 source .venv/bin/activate
 Install dependencies:
 
 
 pip install -r requirements.txt
 
-#🎯 Usage:
+🎯 Usage :
 Run the script:
 
 
@@ -59,7 +59,7 @@ Select operations (Addition, Subtraction, Multiplication, Transpose, Determinant
 See results displayed in a structured format
 
 
-#💡 Example:
+💡 Example :
 
 
 === Matrix Operations Tool ===
@@ -90,7 +90,7 @@ A + B:
 
 
 
-#📄 License:
+📄 License:
 MIT License
 
 
@@ -99,4 +99,4 @@ MIT License
 
 
 
-ChatGPT can make mistakes. Check important info. See Cookie Prefere
+
