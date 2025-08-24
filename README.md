@@ -59,7 +59,7 @@ Install dependencies:
 pip install -r requirements.txt
 
 
-**🎯 Usage **:
+**🎯 Usage :**
 
 Run the script:
 
