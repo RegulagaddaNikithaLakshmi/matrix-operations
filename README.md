@@ -46,10 +46,12 @@ Install dependencies:
 pip install -r requirements.txt
 
 🎯 Usage :
+
 Run the script:
 
 
 python matrix_tools.py
+
 Follow the on-screen prompts to:
 
 Input matrices
@@ -73,16 +75,25 @@ Select Operation:
 Enter choice (1-6): 1
 
 Enter Matrix A:
+
 Number of rows: 2
+
 Number of columns: 2
+
 Row 1: 1 2
+
 Row 2: 5 6
 
 Enter Matrix B:
+
 Number of rows: 2
+
 Number of columns: 2
+
 Row 1: 3 4
+
 Row 2: 7 8
+
 
 A + B:
 [[ 4.  6.]
@@ -91,6 +102,7 @@ A + B:
 
 
 📄 License:
+
 MIT License
 
 
