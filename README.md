@@ -32,14 +32,20 @@ Navigate to the project folder:
 
 
 cd matrix-operations
+
 (Optional) Create and activate a virtual environment:
 
 
 python -m venv .venv
+
  Windows
+ 
 .venv\Scripts\activate
+
  macOS/Linux
+ 
 source .venv/bin/activate
+
 Install dependencies:
 
 
